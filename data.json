@@ -1,0 +1,384 @@
+{
+  "title": "Adams Family",
+  "thumbnail_id": "secure_identifier_key",
+  "acts": [
+    {
+      "title": "Act 1",
+      "thumbnail_id": "secure_identifier_key",
+      "scenes": [
+        {
+          "title": "Scene 1",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        },
+        {
+          "title": "Scene 2",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        },
+        {
+          "title": "Scene 3",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        },
+        {
+          "title": "Scene 4",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Act 2",
+      "thumbnail_id": "secure_identifier_key",
+      "scenes": [
+        {
+          "title": "Scene 1",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        },
+        {
+          "title": "Scene 2",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        },
+        {
+          "title": "Scene 3",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        },
+        {
+          "title": "Scene 4",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Act 3",
+      "thumbnail_id": "secure_identifier_key",
+      "scenes": [
+        {
+          "title": "Scene 1",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        },
+        {
+          "title": "Scene 2",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        },
+        {
+          "title": "Scene 3",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        },
+        {
+          "title": "Scene 4",
+          "thumbnail_id": "secure_identifier_key",
+          "video_sets":[
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            },
+            {
+              "thumbnail_id": "secure_identifier_key",
+              "cue": "This is a cue",
+              "loop_id":"secure_identifier_key",
+              "action_id": "secure_identifier_key"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
